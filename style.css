@@ -1,0 +1,52 @@
+.green:active{
+    background-color: green;
+  }
+  .red:active{
+    background-color:  red;
+  }
+  .right:active{
+    background-color: green;
+  }
+  .right{
+      border: 2px solid green;
+      margin: 50px;
+      height: 50px;
+      width: 100px;
+  }
+  .button{
+      margin: 50px;
+      height: 50px;
+      width: 100px;
+  }
+  .question{
+      margin-left: 50px;
+      margin-top: 50px;
+      margin-right: 50px;
+      
+  }
+  .head{
+      color: blueviolet;
+      border: 2px solid black;
+      margin: 20px;
+      padding: 20px;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+      
+  }
+  .align{
+      display: flex;
+      justify-content: space-around;
+  }
+  .box{
+      margin: 20px;
+      padding: 20px;
+      height: 50vh;
+  }
+  .flex{
+      display: flex;
+      justify-content: space-between;
+      margin-bottom: 50px;
+  }
+  button:active{
+    background-color:  red;
+  }
